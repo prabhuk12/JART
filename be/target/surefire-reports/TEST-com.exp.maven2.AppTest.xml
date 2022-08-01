@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="com.exp.maven2.AppTest" time="0.002" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\graalvm-ce-java8-20.1.0\jre\bin"/>
+    <property name="java.vm.version" value="25.252-b09-jvmci-20.1-b02"/>
+    <property name="java.vm.vendor" value="GraalVM Community"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\pkapaleeswaran\workspacej3\maven2node"/>
+    <property name="java.vendor.url" value="https://www.graalvm.org/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM GraalVM CE 20.1.0"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\pkapaleeswaran\workspacej3\maven2node"/>
+    <property name="java.runtime.version" value="1.8.0_252-b09"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\graalvm-ce-java8-20.1.0\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\PKAPAL~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\Users\pkapaleeswaran\Desktop\From C Drive Root\apache-maven-3.8.6\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\graalvm-ce-java8-20.1.0\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\nodejs\;C:\graalvm-ce-java8-20.1.0\jre\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\java\jdk8u252-b09\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\pkapaleeswaran\AppData\Local\Microsoft\WindowsApps;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files (x86)\Yarn\bin\;C:\ProgramData\chocolatey\bin;;C:\Users\pkapaleeswaran\.wasmer\bin;C:\Users\pkapaleeswaran\.wasmer\globals\wapm_packages\.bin;C:\CMake\bin;C:\Program Files\Calibre2\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\pkapaleeswaran\.cargo\bin;c:\nodejs;C:\graalvm-ce-java8-20.1.0\jre\bin;C:\java\jdk8u252-b09\bin;C:\Users\pkapaleeswaran\AppData\Local\Microsoft\WindowsApps;C:\R-Portable/App/R-Portable/bin/x64;C:\R-Portable/App/R-Portable/library/rJava/jri/x64;c:\python\python36;c:\python\python36\Scripts;C:\Users\pkapaleeswaran\AppData\Local\Programs\Git\cmd;C:\Users\pkapaleeswaran\AppData\Local\Yarn\bin;C:\Users\pkapaleeswaran\go\bin;C:\Users\pkapaleeswaran\Desktop\From C Drive Root\apache-maven-3.8.6\bin;C:\Users\pkapaleeswaran\workspacej3\Microsoft VS Code\bin;C:\Users\pkapaleeswaran\.wasmer\bin;C:\Users\pkapaleeswaran\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="maven.conf" value="C:\Users\pkapaleeswaran\Desktop\From C Drive Root\apache-maven-3.8.6/conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:\Users\pkapaleeswaran\Desktop\From C Drive Root\apache-maven-3.8.6\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\pkapaleeswaran"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="pkapaleeswaran"/>
+    <property name="java.class.path" value="C:\Users\pkapaleeswaran\Desktop\From C Drive Root\apache-maven-3.8.6\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\graalvm-ce-java8-20.1.0\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_252"/>
+    <property name="java.ext.dirs" value="C:\graalvm-ce-java8-20.1.0\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\graalvm-ce-java8-20.1.0\jre\lib\resources.jar;C:\graalvm-ce-java8-20.1.0\jre\lib\rt.jar;C:\graalvm-ce-java8-20.1.0\jre\lib\sunrsasign.jar;C:\graalvm-ce-java8-20.1.0\jre\lib\jsse.jar;C:\graalvm-ce-java8-20.1.0\jre\lib\jce.jar;C:\graalvm-ce-java8-20.1.0\jre\lib\charsets.jar;C:\graalvm-ce-java8-20.1.0\jre\lib\jfr.jar;C:\graalvm-ce-java8-20.1.0\jre\lib\jvmci-services.jar;C:\graalvm-ce-java8-20.1.0\jre\classes;C:\graalvm-ce-java8-20.1.0\jre\lib\boot\graal-sdk.jar;C:\graalvm-ce-java8-20.1.0\jre\lib\boot\graaljs-scriptengine.jar"/>
+    <property name="sun.stderr.encoding" value="cp437"/>
+    <property name="java.vendor" value="GraalVM Community"/>
+    <property name="maven.home" value="C:\Users\pkapaleeswaran\Desktop\From C Drive Root\apache-maven-3.8.6"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="https://github.com/oracle/graal/issues"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.stdout.encoding" value="cp437"/>
+    <property name="jvmci.Compiler" value="graal"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="com.exp.maven2.AppTest" name="testApp" time="0.002"/>
+</testsuite>
